@@ -1,0 +1,54 @@
+@font-face {
+    font-family: 'prudential';
+    src:    url('fonts/prudential.eot?uko4pe');
+    src:    url('fonts/prudential.eot?uko4pe#iefix') format('embedded-opentype'),
+        url('fonts/prudential.ttf?uko4pe') format('truetype'),
+        url('fonts/prudential.woff?uko4pe') format('woff'),
+        url('fonts/prudential.svg?uko4pe#prudential') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="icon-prudential"], [class*=" icon-prudential"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'prudential' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-prudentialnoun_180782_cc:before {
+    content: "\e900";
+}
+.icon-prudentialnoun_311716_cc:before {
+    content: "\e901";
+}
+.icon-prudentialnoun_311715_cc:before {
+    content: "\e902";
+}
+.icon-prudentialnoun_311722_cc:before {
+    content: "\e903";
+}
+.icon-prudentialnoun_349960_cc:before {
+    content: "\e904";
+}
+.icon-prudentialnoun_175740_cc:before {
+    content: "\e905";
+}
+.icon-prudentialcoin-dollar:before {
+    content: "\e909";
+}
+.icon-prudentialcredit-card:before {
+    content: "\e90a";
+}
+.icon-prudentialkey2:before {
+    content: "\e90b";
+}
+
